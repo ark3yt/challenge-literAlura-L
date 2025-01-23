@@ -74,7 +74,7 @@ Menú Principal - Opciones
 
 ## Acceso al Proyecto
 
-Puedes acceder al proyecto: [Aquí](https://github.com/ark3yt/challenge-literAlura/)
+Puedes acceder al proyecto: [Aquí](https://github.com/ark3yt/challenge-literAlura-L/)
 
 ## Autor del proyecto
 
